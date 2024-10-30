@@ -143,11 +143,6 @@
   <p>
     <a href="#"
       ><img
-        alt="Brave"
-        src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"
-    /></a>
-    <a href="#"
-      ><img
         alt="Discord"
         src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"
     /></a>
