@@ -188,6 +188,8 @@
   <summary><h2>📊 Estadísticas y actividad</h2></summary>
 <!--- stats & Trophy (start) -->
 <p align="center">
+<!--- stats & Trophy (start) -->
+<p align="center">
   <!--- stats (start) -->
 <table align="center">
 <tr border="none">
