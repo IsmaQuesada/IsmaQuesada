@@ -209,6 +209,8 @@
 </table>
 <!--- stats (end) -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaQuesa&hide_progress=true)
+
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
