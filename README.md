@@ -211,7 +211,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaQuesada&hide_progress=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmaQuesada&show_icons=true&theme=radical)
 
 <!--- trophy (start) -->
 <div align=center>
