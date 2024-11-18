@@ -211,6 +211,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaQuesada&hide_progress=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
