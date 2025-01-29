@@ -18,7 +18,7 @@
 
 - ❤️ Me encanta desarrollar con JavaScript y C#
 
-- 📈 Actualmente estoy desarrollando a fondo con React
+- 📈 Actualmente estoy enfocando en mejorar en Frontend 
 
 <details>
   <summary><h2>🛠️ Mis herramientas favoritas</h2></summary>
